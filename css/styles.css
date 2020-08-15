@@ -1,0 +1,61 @@
+body {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+p{
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+/* ////////////////////TOP container ///////////*/
+#top {
+  background-color: #cbeaed;
+  padding-top:9rem;
+  padding-bottom: 9rem;
+}
+
+.title {
+color: #184d47;
+}
+/* /////////////////////////////////////////////// */
+
+/* BODY//////////////// */
+
+.pencil{
+  width: 17%;
+  padding-top: 3rem;
+
+}
+
+
+.intro{
+padding-bottom: -2rem;
+  padding-top: 3rem;
+  font-size: 2.5rem;
+}
+
+.body-text{
+  font-size: 2rem;
+  padding: 7% 15%;
+}
+
+.name{
+  padding-bottom: 0;
+}
+
+.kiss{
+  width: 100%;
+  padding-left: 3rem;
+}
